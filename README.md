@@ -1,21 +1,25 @@
 # AppleAppStore
 
-**TODO: Add description**
+[![Hex.pm](https://img.shields.io/hexpm/v/apple_app_store.svg)](https://hex.pm/packages/apple_app_store)
+
+> Simplify your Apple App Store development experience!
 
 ## Installation
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `apple_app_store` to your list of dependencies in `mix.exs`:
+Add `:apple_app_store` to the list of dependencies in `mix.exs`:
 
 ```elixir
 def deps do
   [
-    {:apple_app_store, "~> 0.1.0"}
+    {:apple_app_store, <requirement>}
   ]
 end
 ```
 
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at <https://hexdocs.pm/apple_app_store>.
+## Usage
 
+For more information, see the [documentation](https://hexdocs.pm/apple_app_store).
+
+## License
+
+Apache License 2.0
