@@ -1,3 +1,7 @@
+> WARNING: This repo is not maintained due to [Ship utilities for building platform SDKs](https://github.com/cozy-elixir/proposals/blob/main/ship-utilities-for-building-platform-sdks.md).
+>
+> You can use [apple](https://github.com/cozy-elixir/apple) as the helpers to build your own SDK.
+
 # AppleAppStore
 
 [![Hex.pm](https://img.shields.io/hexpm/v/apple_app_store.svg)](https://hex.pm/packages/apple_app_store)
